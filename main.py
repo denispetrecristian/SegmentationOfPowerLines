@@ -3,6 +3,7 @@ import argparse
 import logging
 from logger import Logger
 from torch.utils.data import Dataset, DataLoader
+from models.generative_adversarial_network import Discriminator
 
 
 def train():
