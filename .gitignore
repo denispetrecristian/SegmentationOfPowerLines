@@ -1,1 +1,4 @@
 datasets/ttpla/data_original_size_v1
+**/*/__pycache__
+logs/*
+__pycache__/*
